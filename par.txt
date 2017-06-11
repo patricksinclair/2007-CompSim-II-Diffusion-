@@ -1,0 +1,10 @@
+At 6 timesteps, the displacement is: 1.41
+At 12 timesteps, the displacement is: 3.16
+At 18 timesteps, the displacement is: 3.16
+At 24 timesteps, the displacement is: 3.16
+At 30 timesteps, the displacement is: 5.83
+At 36 timesteps, the displacement is: 5.10
+At 42 timesteps, the displacement is: 6.00
+At 48 timesteps, the displacement is: 6.00
+At 54 timesteps, the displacement is: 5.10
+At 60 timesteps, the displacement is: 5.10
